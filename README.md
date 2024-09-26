@@ -1,7 +1,7 @@
 # POOR-MAN FLUX
 ## Or how to run FLUX on very old hardware
 
-I have managed to have the new image-to-text kid on the block, [FLUX](https://huggingface.co/black-forest-labs/FLUX.1-schnell), running on a 2012 Xeon processor with 16 GB of RAM and no usable GPU.
+I have managed to have the new text-to-image kid on the block, [FLUX](https://huggingface.co/black-forest-labs/FLUX.1-schnell), running on a 2012 Xeon processor with 16 GB of RAM and no usable GPU.
 
 This is how:
 
